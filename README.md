@@ -1,1 +1,1 @@
-# PURP - Metaverse utility token build on Solana
+# PURP - Metaverse utility token on Solana
